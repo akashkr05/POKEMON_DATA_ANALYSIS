@@ -1,4 +1,6 @@
-# POKEMON_DATA_ANALYSIS
+# POKEMON_DATA_ANALYSIS3
+# Python | Numpy | Pandas | Matplotlib | Seaborn
+
 
 This project focuses on analyzing the Pokémon dataset to gain insights into various aspects of the popular Pokémon franchise. 
 The analysis is performed using Python programming language and popular data analysis libraries such as pandas, NumPy, and Seaborn.
